@@ -1,6 +1,6 @@
 To create a free-tier eligible Amazon EC2 micro instance, follow these steps:
 
-  Sign In: Log into your AWS Management Console.
+    Sign In: Log into your AWS Management Console.
     Navigate to EC2: Go to the EC2 dashboard.
     Launch Instance:
         Click "Launch Instance."
